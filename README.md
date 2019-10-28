@@ -1,7 +1,7 @@
 # kata-bootstrap-java
 Maven archetype to quickly generate a pom for TDD katas.
 
-The pom will have the following dependencies added to the pom:
+The following dependencies will be added to the pom:
 - Junit 5
 - Mockito
 - Hamcrest matchers
